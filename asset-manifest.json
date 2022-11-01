@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-coins/static/css/main.c3a7e1a4.css",
+    "main.js": "/react-coins/static/js/main.acde6968.js",
+    "static/media/cryptocurrency.png": "/react-coins/static/media/cryptocurrency.1548aced3f0605895bac.png",
+    "static/media/demoimage.png": "/react-coins/static/media/demoimage.2c92a1fa9ef4f7d58ebf.png",
+    "index.html": "/react-coins/index.html",
+    "main.c3a7e1a4.css.map": "/react-coins/static/css/main.c3a7e1a4.css.map",
+    "main.acde6968.js.map": "/react-coins/static/js/main.acde6968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3a7e1a4.css",
+    "static/js/main.acde6968.js"
+  ]
+}
